@@ -1,0 +1,4 @@
+worker-id: 567db44f-a718-499e-be15-f2a4c8b00a6a
+logs.users: []
+logs.groups: []
+topology.submitter.user: kurt
